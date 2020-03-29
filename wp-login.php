@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; mamadblog &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://mamaddddd.github.io/anambas_project/wp-includes/css/dashicons.css?ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://mamaddddd.github.io/anambas_project/wp-includes/css/buttons.css?ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://mamaddddd.github.io/anambas_project/wp-admin/css/forms.css?ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://mamaddddd.github.io/anambas_project/wp-admin/css/l10n.css?ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://mamaddddd.github.io/anambas_project/wp-admin/css/login.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://mamaddddd.github.io/anambas_project/wp-includes/css/dashicons.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://mamaddddd.github.io/anambas_project/wp-includes/css/buttons.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://mamaddddd.github.io/anambas_project/wp-admin/css/forms.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://mamaddddd.github.io/anambas_project/wp-admin/css/l10n.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://mamaddddd.github.io/anambas_project/wp-admin/css/login.css?ver=5.3.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -25,7 +25,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="/https://mamaddddd.github.io/anambas_project/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://mamaddddd.github.io/anambas_project/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
@@ -43,48 +43,48 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-									<input type="hidden" name="redirect_to" value="/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="https://mamaddddd.github.io/anambas_project/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
 
 					<p id="nav">
-									<a href="/https://mamaddddd.github.io/anambas_project/wp-login.php?action=lostpassword">Lost your password?</a>
+									<a href="https://mamaddddd.github.io/anambas_project/wp-login.php?action=lostpassword">Lost your password?</a>
 								</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
-				<p id="backtoblog"><a href="/https://mamaddddd.github.io/anambas_project/">
+				<p id="backtoblog"><a href="https://mamaddddd.github.io/anambas_project/">
 		&larr; Back to mamadblog		</a></p>
 			</div>
-	<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1'></script>
+	<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/mamaddddd.github.io\/anambas_project\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-includes/js/zxcvbn-async.js?ver=1.0'></script>
+<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-includes/js/zxcvbn-async.js?ver=1.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-admin/js/password-strength-meter.js?ver=5.3.2'></script>
-<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-admin/js/password-strength-meter.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wordpress_mamad\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-includes/js/wp-util.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-includes/js/wp-util.js?ver=5.3.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var userProfileL10n = {"warn":"Your new password has not been saved.","warnWeak":"Confirm use of weak password","show":"Show","hide":"Hide","cancel":"Cancel","ariaShow":"Show password","ariaHide":"Hide password"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='/https://mamaddddd.github.io/anambas_project/wp-admin/js/user-profile.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://mamaddddd.github.io/anambas_project/wp-admin/js/user-profile.js?ver=5.3.2'></script>
 	<script>
 	/* IE11 skip link focus fix */
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
